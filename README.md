@@ -15,3 +15,4 @@
 - **Документация:**  
   - `readme.md` — данное описание проекта.  
   - `report.md` — подробный отчёт с выводами по проделанной работе.
+  - Демонстрация работы: https://www.dropbox.com/scl/fi/xo5lbu5tt0t49xhljzlke/video1256845701.mp4?rlkey=y5t93kl35lexrkb0clxzei669&st=e1tin1ar&dl=0
